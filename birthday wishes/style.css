@@ -1,0 +1,32 @@
+#h1{
+    height:17vh;
+    background-color: orange;
+    font-size: 5em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#h1a{
+    height:17vh;
+    font-size: 5em;
+}
+.section{
+    height:90vh;
+    display:flex;
+}
+.part{
+    height:80vh;
+    width:45vw;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    padding-top: 0px;
+    font-size: ariel;
+    font-size: 30px;
+}
+#img{
+    margin-top: 0px;
+    margin-left: 30vw;
+}
